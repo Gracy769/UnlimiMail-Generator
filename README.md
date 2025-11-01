@@ -2,7 +2,6 @@
 
 > **"My primary inbox is a VIP section. Everyone else gets the dot-trick alias."**
 
----
 
 ## 🌟 Overview: Stop Giving Out Your Real Email
 
