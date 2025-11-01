@@ -62,4 +62,4 @@ Gmail **ignores dots** (`.`) anywhere in the username. Any combination of dots w
 
 To quickly generate every possible dot and plus combination for your address, use this powerful external tool:
 
-> **[Mailmeteor Gmail Generator](https://mailmeteor.com/tools/gmail-generator)**
+> **[Unlimited Gmail Generator](https://mailmeteor.com/tools/gmail-generator)**
